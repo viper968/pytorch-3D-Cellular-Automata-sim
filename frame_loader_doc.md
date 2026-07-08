@@ -1,4 +1,4 @@
-Here is the comprehensive technical breakdown and documentation for your Blender `frame_loader.py` script (v4 — Generations format, metadata-aware).
+documentation for Blender `frame_loader.py` script (v4).
 
 ---
 
